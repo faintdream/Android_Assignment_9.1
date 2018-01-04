@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OptionMenuDemo</string>
+        <string name="red">red</string>
+        <string name="green">green</string>
+        <string name="blue">blue</string>
+    <string name="tv">See this color would change </string>
+</resources>
